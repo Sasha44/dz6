@@ -1,0 +1,52 @@
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: green;
+}
+
+#main-text-red {
+    color: red;
+}
+
+.test-text-blueviolet {
+    color: blueviolet;
+}
+
+ul li {
+    color: darkorange;
+}
+
+b {
+    color: rgb(236, 126, 0);
+}
+
+p {
+    color: chartreuse;
+}
+
+.test-text-darkred {
+    color: darkred;
+}
+
+span {
+    color: rgb(207, 207, 219);
+    font-style: italic;
+}
+
+div {
+    color: darkgoldenrod;
+}
+
+li:nth-child(odd) {
+    color: rgb(0, 255, 115);
+}
+
+li:last-child {
+    color: blue;
+}
+
+.bg-text-red {
+    background-color: red;
+}
